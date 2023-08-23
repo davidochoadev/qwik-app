@@ -1,4 +1,4 @@
-/**
+/*
  * WHAT IS THIS FILE?
  *
  * SSR entry point, in all cases the application is rendered outside the browser, this
@@ -10,6 +10,7 @@
  * - npm run build
  *
  */
+
 import {
   renderToStream,
   type RenderToStreamOptions,
